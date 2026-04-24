@@ -1,14 +1,17 @@
 [
   {
-    "id": "20260420-1",
-    "texto": "24 de Abril - Ayer no cobramos"
+    "id": "19042026-1",
+    "texto": "24 de Abril - Ayer no cobramos",
+    "url": "https://www.tesoreria.gba.gov.ar/cronograma-de-sueldos"
   },
   {
-    "id": "20260421-0",
-    "texto": "24 de Abril - Hoy tampoco"
+    "id": "19042026-2",
+    "texto": "24 de Abril - Hoy tampoco",
+    "url": "https://www.tesoreria.gba.gov.ar/cronograma-de-sueldos"
   }, 
   {
-    "id": "20260429-7",
-    "texto": "El domingo juega River"
+    "id": "19042026-3",
+    "texto": "El domingo juega River",
+    "url": "https://www.cariverplate.com.ar/"
   }
 ]
