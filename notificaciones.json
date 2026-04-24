@@ -1,4 +1,18 @@
 [
-  {"id": "20260424-1", "texto": "24 de Abril - Ayer no cobramos"},
-  {"id": "20260424-2", "texto": "24 de Abril - Hoy tampoco"}
+  {
+    "id": "20260424-1",
+    "texto": "24 de Abril - Ayer no cobramos"
+  },
+  {
+    "id": "20260424-2",
+    "texto": "24 de Abril - Hoy tampoco"
+  },
+  {
+    "id": "20260425-1",
+    "texto": "25 de Abril - Parcialmente nublado - 12° mínima - 22° máxima"
+  },
+  {
+    "id": "20260425-2",
+    "texto": "25 de Abril - River juega el domingo"
+  }
 ]
