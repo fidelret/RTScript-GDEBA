@@ -1,6 +1,4 @@
 [
-  {"texto": "Ayer no cobramos", "url": "https://www.tesoreria.gba.gov.ar/cronograma-de-sueldos"},
-  {"texto": "Hoy tampoco", "url": "https://www.tesoreria.gba.gov.ar/cronograma-de-sueldos"},
-  {"texto": "Mañana: Parcialmente nublado - 12 de Mínima - 22 de Máxima", "url": "https://www.smn.gob.ar"}, 
-  {"texto": "El Domingo Jueva River", "url": "https://www.cariverplate.com.ar/"}
+  {"id": "20260424-1", "texto": "24 de Abril - Ayer no cobramos"},
+  {"id": "20260424-2", "texto": "24 de Abril - Hoy tampoco"}
 ]
