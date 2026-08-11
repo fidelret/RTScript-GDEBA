@@ -1,6 +1,6 @@
 # RTScript – Extensión para GDEBA (No oficial)
 
-![Logo del proyecto](assets/logo.png)
+[Logo del proyecto](assets/logo.png)
 
 ## 📌 Descripción
 RTScript GDEBA es un **user script para Tampermonkey** que mejora la experiencia en la plataforma GDEBA.  
